@@ -1,0 +1,10 @@
+{
+  "drives": [
+    {
+      "name": "webdav",
+      "search": true,
+      "searchable":true,
+      "server": "填你的地址"
+    }
+  ]
+}
